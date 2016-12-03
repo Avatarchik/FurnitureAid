@@ -4,12 +4,12 @@
         "source": "/home/james/src/ar/samples/app/src/main/res/drawable/button_close_pressed.png"
     },
     {
-        "merged": "/home/james/src/ar/samples/app/build/intermediates/res/merged/debug/drawable/icon_03.png",
-        "source": "/home/james/src/ar/samples/app/src/main/res/drawable/icon_03.png"
-    },
-    {
         "merged": "/home/james/src/ar/samples/app/build/intermediates/res/merged/debug/drawable/icon_02.png",
         "source": "/home/james/src/ar/samples/app/src/main/res/drawable/icon_02.png"
+    },
+    {
+        "merged": "/home/james/src/ar/samples/app/build/intermediates/res/merged/debug/drawable/icon_03.png",
+        "source": "/home/james/src/ar/samples/app/src/main/res/drawable/icon_03.png"
     },
     {
         "merged": "/home/james/src/ar/samples/app/build/intermediates/res/merged/debug/drawable/icon_camera_pressed.png",
@@ -36,12 +36,12 @@
         "source": "/home/james/src/ar/samples/app/src/main/res/drawable/button_close_normal.png"
     },
     {
-        "merged": "/home/james/src/ar/samples/app/build/intermediates/res/merged/debug/drawable/scanline.png",
-        "source": "/home/james/src/ar/samples/app/src/main/res/drawable/scanline.png"
-    },
-    {
         "merged": "/home/james/src/ar/samples/app/build/intermediates/res/merged/debug/drawable/icon.png",
         "source": "/home/james/src/ar/samples/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/home/james/src/ar/samples/app/build/intermediates/res/merged/debug/drawable/scanline.png",
+        "source": "/home/james/src/ar/samples/app/src/main/res/drawable/scanline.png"
     },
     {
         "merged": "/home/james/src/ar/samples/app/build/intermediates/res/merged/debug/drawable/icon_01.png",

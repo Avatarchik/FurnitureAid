@@ -3,20 +3,11 @@
 
     <item
         is-multidex="true"
-        jar="/home/james/src/ar/build/java/vuforia/Vuforia.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="ea4d543e6035333459e815f2e49632cafa536b64">
-        <dex dex="/home/james/src/ar/samples/app/build/intermediates/transforms/dex/debug/folders/1000/2/Vuforia_9d54f1280f90791b16d48b62f21ee2b9b34078f8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/home/james/src/ar/samples/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
-        sha1="9181b63fedc0692b078fce3a04e3a871dea97c09">
+        sha1="6c8718722e2d6297080791c8ccd5b4fedffc8c52">
         <dex dex="/home/james/src/ar/samples/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_26002492edcbd47a461742f48f125d88ae8d0dfa/classes.dex" />
     </item>
     <item
@@ -25,8 +16,17 @@
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
-        sha1="04426c549664c709fe13f23cbad16d3df4ffd8e7">
+        sha1="705bdfcfa2e7e950267d2f0c89f3a2bce38a89db">
         <dex dex="/home/james/src/ar/samples/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f4e0df6fb451146892b1cbab98a38cd8a82c597e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/james/src/ar/build/java/vuforia/Vuforia.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ea4d543e6035333459e815f2e49632cafa536b64">
+        <dex dex="/home/james/src/ar/samples/app/build/intermediates/transforms/dex/debug/folders/1000/2/Vuforia_9d54f1280f90791b16d48b62f21ee2b9b34078f8/classes.dex" />
     </item>
 
 </items>

@@ -1,4 +1,4 @@
-#Sat Dec 03 07:03:53 PST 2016
+#Sat Dec 03 15:21:01 PST 2016
 base.0=/home/james/src/ar/samples/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_26002492edcbd47a461742f48f125d88ae8d0dfa
 renamed.1=classes.dex
 renamed.0=classes2.dex

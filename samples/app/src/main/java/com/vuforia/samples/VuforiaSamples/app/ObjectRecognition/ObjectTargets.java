@@ -123,7 +123,9 @@ public class ObjectTargets extends Activity implements SampleApplicationControl,
     private void loadTextures()
     {
         mTextures.add(Texture.loadTextureFromApk(
-            "ObjectRecognition/CubeWireframe.png", getAssets()));
+            "ObjectRecognition/CubeWireframe1.1.png", getAssets()));
+        mTextures.add(Texture.loadTextureFromApk(
+            "ObjectRecognition/CubeWireframe2.1.png", getAssets()));
     }
     
     
@@ -213,7 +215,7 @@ public class ObjectTargets extends Activity implements SampleApplicationControl,
     {
         Log.d(LOGTAG, "onPause");
         super.onPause();
-        
+        ObjectTargetRenderer.destID = 1;
         if (mGlView != null)
         {
             mGlView.setVisibility(View.INVISIBLE);
@@ -505,7 +507,7 @@ public class ObjectTargets extends Activity implements SampleApplicationControl,
         {
             Log.i(LOGTAG, "Tracker successfully initialized");
         }
-        Vuforia.setHint(HINT.HINT_MAX_SIMULTANEOUS_OBJECT_TARGETS, 5);
+        Vuforia.setHint(HINT.HINT_MAX_SIMULTANEOUS_OBJECT_TARGETS, 10);
 //        Vuforia.setHint(HINT.HINT_MAX_SIMULTANEOUS_IMAGE_TARGETS, 10);
         return result;
     }
