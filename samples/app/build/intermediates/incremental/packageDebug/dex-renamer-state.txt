@@ -1,0 +1,7 @@
+#Sat Dec 03 07:03:53 PST 2016
+base.0=/home/james/src/ar/samples/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_26002492edcbd47a461742f48f125d88ae8d0dfa
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/james/src/ar/samples/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f4e0df6fb451146892b1cbab98a38cd8a82c597e/classes.dex
+base.1=/home/james/src/ar/samples/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f4e0df6fb451146892b1cbab98a38cd8a82c597e
+file.0=/home/james/src/ar/samples/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_26002492edcbd47a461742f48f125d88ae8d0dfa/classes.dex

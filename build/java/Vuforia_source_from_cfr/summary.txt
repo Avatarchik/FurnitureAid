@@ -1,0 +1,2 @@
+Summary for /www/javadecompilers/app/public/data/03.12.16/42cc3b63e721c1ecf8aa15968aa7b9a9/Vuforia.jar
+Decompiled with CFR 0_118

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/james/src/ar/samples/app/src/main/jniLibs"/><source path="/home/james/src/ar/build/lib"><file name="armeabi-v7a/libVuforia.so" path="/home/james/src/ar/build/lib/armeabi-v7a/libVuforia.so"/></source></dataSet><dataSet config="debug"><source path="/home/james/src/ar/samples/app/src/debug/jniLibs"/></dataSet></merger>

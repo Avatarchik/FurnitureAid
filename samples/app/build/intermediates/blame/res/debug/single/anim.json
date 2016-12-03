@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/james/src/ar/samples/app/build/intermediates/res/merged/debug/anim/bottom_down.xml",
+        "source": "/home/james/src/ar/samples/app/src/main/res/anim/bottom_down.xml"
+    },
+    {
+        "merged": "/home/james/src/ar/samples/app/build/intermediates/res/merged/debug/anim/bottom_up.xml",
+        "source": "/home/james/src/ar/samples/app/src/main/res/anim/bottom_up.xml"
+    }
+]
